@@ -12,4 +12,6 @@
     <color name="highlight">#ffffff</color>
     <color name="shadow_color">#d9dbde</color>
     <color name="colorPrimary">#efeeee</color>
+    <color name="red">#7A0008</color>
+    <color name="grey">#797A7A</color>
 </resources>
